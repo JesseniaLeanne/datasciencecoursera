@@ -1,3 +1,12 @@
-# Jess - Week 4 assignment, 7 July 2021
 ## This is a markdown file
-### (But it wasn't made in Rstudio!)
+
+
+
+
+
+
+
+
+
+
+##### Author: Jess, made on 7 July 2021
